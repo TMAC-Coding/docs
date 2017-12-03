@@ -33,7 +33,7 @@ This role is responsible for enforcing the "demoted/kicked after # days inactive
 ---
 
 ## Sergeant at Arms
-### R4: BBOYH, BdaddyAngel
+### R4: BBOYH
 ### R3s:
 
 This role is responsbile leading raids on smaller hives and helping lead the defensive plans when the hive is under attack from an enemy guild. They are also responsbile for sorting out any questions related to the Attacking Policy. This role should work directly with the Diplomatic Recruiter to make sure we're not attacking guilds that could potentially become allies.
