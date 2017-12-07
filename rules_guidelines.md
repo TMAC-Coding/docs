@@ -50,32 +50,13 @@ The following is true for all ranks. Failure to grow at an acceptable rate (with
 
 * Players are expected to make a constant amount of growth per week.
 * Players are encouraged to have a greater amount of core might than the minimum amount required to join the guild.
+* For further Might Growth Requirements go to:
 
-## Guild Bash, Guild Fest, KvK(vK), Guild Showdown, Darknest Rallies
+## Inactivity, Monster Hunting, KvK (Kingdom Clash), Guild Showdown, Guild Fest, Guild Bash, War / Burn Sessions, and other activity Rules
 
-You need to participate in all of these things. If you fail to participate in these events twice in a row you will get kicked. We understand real life is important, and it will always supercede this game. If you are too busy send out a guild wide mail letting everyone know that you'll be away during an event so you don't get punished for it.
+* For all activity rules please go to: 
 
-As the guild (and you) grows, getting more and more done during these events will be required. Obviously some people just won't be able to perform as well as others based on their castle level and their resources at hand, that's completely understandable. As long as you try that's all that can be asked!
-
-### Guild Bash
-
-You need to participate in this, and it's as simple as hitting monsters or hosting darknest rallies. Getting to higher tiers allows the guild to summon monsters that have special loot. The more people that participate the more chests and monsters we can summon.
-
-### Guild Fest
-
-Everyone is required to finish all of their attempts. It's a six day event and there's no reason you can't get all of your attempts done. If you're struggling you need to pick easier quests. If you have questions about a quest, ask in the chat for more inforamtion. If you can't find any quests you can do, ask an R4+ to refresh the quests.
-
-A mark against you will happen if you have not completed at least 50% of the total allowed attempts during a fest. The bonus attempt will never be counted in this.
-
-### KvK
-
-Everyone is required to get to at least their second tier of their solo quest finished. Gathering points is easy. If you can't attack enough people to get points, hunker down in an enemy kingdom and gather Ore or Gold (**WHILE YOU ARE ONLINE**) and attack as many monsters (highest level) that you can.
-
-### Guild Showdown
-
-More on this at a later time.
-
-### Darknest Rallies
+## Darknest Rallies
 
 These are not a requirement, but joining and hosting them builds guild morale and displays good teamwork within the guild. The rewards are pretty good for the effort it takes, troop loss is minimal so there's no reason to not jump in a rally if you're online.
 
