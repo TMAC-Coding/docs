@@ -25,6 +25,7 @@
    - You must participate and finish at least tier one of solo war.
  * **Punishments:**
    - If you do not complete the minimum tier required of solo war in 2 KvK's in a row you will be kicked. (Note: will be increased to tier two when activity in KvK is increased)
+   - If you get 0 points without an valid reason you will immediately be kicked. We understand real life comes first, just please notify us.
  * **Why?:**
    - More points you get in your solo war, higher the points we get in guild war. Higher tier we get in guild war better rewards we get as a whole.
 
@@ -41,6 +42,7 @@
    - You must participate and get a minimum of 500 points (Hint: you must do 70+ point quests at 7 attempts).
  * **Punishments:**
    - If you do not reach the point minimum in 2 guild fests in a row you will be kicked. (Note: as we move further up in guild fest the point minimum will be increased)
+   - If you get 0 points without a valid reason you will immediately be kicked. We understand real life comes first, just please notify us.
  * **Why?:**
    - More points we get as a whole in guild fest the higher tier we get. The higher the tier we get more rewards we get and better rewards we get.
 	
@@ -49,6 +51,7 @@
    - You must participate during Guild Bash and manage to get at least 10,000 points. (Hint: you only have to be the rally captain of and beat 1 lvl 2 darknest, although it is not the only way.)
  * **Punishments:**
    - If you do not reach the minimum points in 2 guild bash in a row you will be kicked.
+   - If you get 0 points without a valid reason you will immediately be kicked. We understand real life comes first, just please notify us.
  * **Why?:**
    - More points we get as a whole higher tier we receive, higher tier we receive more monsters we can spawn, more monsters we can spawn better spawn loot and slayer loot we can receive. 
 
