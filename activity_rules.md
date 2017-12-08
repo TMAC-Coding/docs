@@ -16,7 +16,7 @@
    - If one or more persons are online to help you with a monster hunt, you may hit a monster at which you can at least do 50% damage if you were hunting it alone.
    - If noone is available to help you hunt you should not attack a monster at which you can not solo kill. 
  * **Punishments:**
-   - If you are caught attacking monsters that are out of your reach (unkilled) 5 times you will be kicked. You may or may not get warnings before you are kicked, however we will try when possible. (Tip: save packs and make sure to finish off monsters)
+   - If you are caught attacking monsters that are out of your reach (unkilled) 5 times you will be kicked. You may or may not get warnings before you are kicked, however we will try when possible. (Tip: save packs and make sure to finish off monsters, still may be best to use packs during events, however.)
  * **Why?:**
    - When you leave unkilled monsters it hampers the guilds gift level. Higher our gift level, better rewards we get as a whole.
 
@@ -53,7 +53,7 @@
    - If you do not reach the minimum points in 2 guild bash in a row you will be kicked.
    - If you get 0 points without a valid reason you will immediately be kicked. We understand real life comes first, just please notify us.
  * **Why?:**
-   - More points we get as a whole higher tier we receive, higher tier we receive more monsters we can spawn, more monsters we can spawn better spawn loot and slayer loot we can receive. 
+   - More points we get as a whole, higher tier we receive, higher tier we receive more monsters we can spawn, more monsters we can spawn better spawn loot and slayer loot we can receive. 
 
 ### **War / Burn Sessions:**
  * **Rules:**
@@ -65,9 +65,9 @@
 
 ### **Might growth requirements:**
  * **Rules:**
-   - Must reach 8mil+ might by 12/9/2017 @ 5:46pm (pst).
-   - Must then increase your might by 2mil+ per week until above 15mil might.
+   - Must reach 5mil+ might by 12/9/2017 @ 5:46pm (pst).
+   - Must then increase your might by 1mil+ per week until above 15mil might.
  * **Punishments:**
-   - If 8mil is not reached by 12/9/2017 or 15mil is not reached by 1/6/2018 you will be kicked. 
+   - If 5mil is not reached by 12/9/2017 or 15mil is not reached by 2/17/2018 you will be kicked. 
  * **Why?:**
    - We have a minimum might of 15mil to join the guild it is unfair to people who are joining above that to see people already in below that.
