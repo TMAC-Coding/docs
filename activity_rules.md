@@ -3,8 +3,8 @@
 
 ### **Inactivity:**
  * **Rules:**
-   - You should not be inactive for more than 2days.
-   - If you are expecting to be offline for more than 2days, you should send a guild mail so that you can be immune from the punishments.
+   - You should not be inactive for more than 2 days.
+   - If you are expecting to be offline for more than 2 days, you should send a guild mail so that you can be immune from the punishments.
  * **Punishment:**
    - You will be kicked the moment in which the game states you are offline for 2days+
    - You can be let back in, but only in the case of a valid reason and an agreement that if you are inactive for 2days again with no guild mail you will not be let back in again.
@@ -14,7 +14,7 @@
 ### **Monster Hunting:**
  * **Rules:**
    - If one or more persons are online to help you with a monster hunt, you may hit a monster at which you can at least do 50% damage if you were hunting it alone.
-   - If noone is available to help you hunt you should not attack a monster at which you can not solo kill. 
+   - If no one is available to help you hunt you should not attack a monster at which you can not solo kill.
  * **Punishments:**
    - If you are caught attacking monsters that are out of your reach (unkilled) 5 times you will be kicked. You may or may not get warnings before you are kicked, however we will try when possible. (Tip: save packs and make sure to finish off monsters, still may be best to use packs during events, however.)
  * **Why?:**
@@ -45,7 +45,7 @@
    - If you get 0 points without a valid reason you will immediately be kicked. We understand real life comes first, just please notify us.
  * **Why?:**
    - More points we get as a whole in guild fest the higher tier we get. The higher the tier we get more rewards we get and better rewards we get.
-	
+
 ### **Guild Bash:**
  * **Rules:**
    - You must participate during Guild Bash and manage to get at least 10,000 points. (Hint: you only have to be the rally captain of and beat 1 lvl 2 darknest, although it is not the only way.)
@@ -68,6 +68,7 @@
    - Must reach 5mil+ might by 12/9/2017 @ 5:46pm (pst).
    - Must then increase your might by 1mil+ per week until above 15mil might.
  * **Punishments:**
-   - If 5mil is not reached by 12/9/2017 or 15mil is not reached by 2/17/2018 you will be kicked. 
+   - If 5mil is not reached by 12/9/2017 or 15mil is not reached by 2/17/2018 you will be kicked.
+   - Steady growth will dismiss punishment if you are making acceptable progress.
  * **Why?:**
    - We have a minimum might of 15mil to join the guild it is unfair to people who are joining above that to see people already in below that.
