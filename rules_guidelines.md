@@ -50,11 +50,11 @@ The following is true for all ranks. Failure to grow at an acceptable rate (with
 
 * Players are expected to make a constant amount of growth per week.
 * Players are encouraged to have a greater amount of core might than the minimum amount required to join the guild.
-* For further Might Growth Requirements go to:
+* For further Might Growth Requirements go to: [All Activity Rules](https://github.com/bunnybattalion/docs/blob/master/activity_rules.md)
 
 ## Inactivity, Monster Hunting, KvK (Kingdom Clash), Guild Showdown, Guild Fest, Guild Bash, War / Burn Sessions, and other activity Rules
 
-* For all activity rules please go to: 
+* For all activity rules please go to: [All Activity Rules](https://github.com/bunnybattalion/docs/blob/master/activity_rules.md)
 
 ## Darknest Rallies
 
